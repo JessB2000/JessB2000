@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m not currently working
-- 🌱 I’m currently learning Java and Cybersecurity
+- 🌱 I’m currently learning Java and Web Development
 - 📫 My current email is: jessbarbosa2000@gmail.com
 - 📚 I'm studying IT (Information Technology) at Federal University of Bahia
 
