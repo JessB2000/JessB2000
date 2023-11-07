@@ -1,6 +1,6 @@
 ## Hi, welcome to my profile! My name is Jessica Ellen!👋
 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development and IOT
 - 📫 My current email is: jessbarbosa2000@gmail.com
 - 📚 I'm studying IT (Information Technology) at Federal University of Bahia
 
